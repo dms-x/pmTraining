@@ -1,5 +1,4 @@
 ### A1 - Git
-Hello Haize,
 In here, you will learn how to use git/github.  
 The point of this is to learn how to get code from one machine to another machine.  
 
