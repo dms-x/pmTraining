@@ -19,6 +19,6 @@ Now, change this README.md file by answer this question below. What is your name
 -> 
 
 After typing that, let's now save the changes for everyone. 
-In the terminal, type "git add a1pm/" -> this adds only the a1pm folder to a state where it is ready to be changed.
+In the terminal, type "git add a1pm/" -> this adds only the a1pm folder to a state where it is ready to be changed./
 Then, type: git commit -m "name change(or anything to describe the change you made to the code)"
 -> that 
