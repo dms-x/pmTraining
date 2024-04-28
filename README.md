@@ -1,4 +1,4 @@
-# pmTraining
+# pmTraining for beginners
 
 Hello, This is David Song. 
 
@@ -11,17 +11,29 @@ For farther studies and references, go through [W3schools](https://www.w3schools
 
 
 **For front-end, HTML, CSS, and JS(Javascript) is used.**
-## Html
+### Html
 HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. 
 -> the scaffold of the website
 
-## CSS
+### CSS
 Cascading Style Sheets is a style sheet language used for specifying the presentation and styling of a document written in a markup language such as HTML or XML.
 -> make up for the website
 
-## JS
+### JS
 JavaScript, often abbreviated as JS, is a programming language and core technology of the Web, alongside HTML and CSS. 99% of websites use JavaScript on the client side for webpage behavior.
 -> muscle of the website
+
+
+## Framework
+Framework is something developers made that improves the web experience by putting steroids in HTML, CSS, and JS. There are so many frameworks for every aspects of the web development. What you must learn throughout this course would be learning React. 
+
+### React.js
+React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies. React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js.
+
+The benefit of using this framework is that so many developers including big companies use this framework for their web and app developemnt(as Meta/Facebook made it).
+
+That's why I will require you to skeem through HTML, CSS, JS as fast as you can so we can dive in to react development.
+
 
 
 
