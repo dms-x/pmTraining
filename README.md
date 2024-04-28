@@ -1,4 +1,4 @@
-# pmTraining for beginners
+# Passmash Technical Training
 
 Hello, This is David Song. 
 
