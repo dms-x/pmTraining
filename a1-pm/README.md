@@ -17,19 +17,16 @@ You will see something like "Cloning into 'folder name'... done. done. done." sh
 When you see it, go to the file in the terminal by typing **"cd pmTraining"**. (Change Directory). Then, you will see that the folder name in the terminal is now pmTraining. Wow! great job! That's how you clone and navigate through the code from the internet.  
 
 Now, change this README.md file by answer this question below. What is your name?  
--> 
+-> Haize
 
 After typing that, let's now save the changes into your Branch. Branch is used so that you wouldn't change the original code but you will have your own version in the repository. Later, it will be used so that many people can work on the same code but for different functionality in the code.   
-
-Enter: **git checkout -b 'yourname'** change 'yourname' to your actual name without ''.  
 
 In the terminal, type **"git add a1-pm/"** -> this adds only the a1pm folder to a state where it is ready to be changed.  
 Then, type: **git commit -m "name change(or anything to describe the change you made to the code)"**  
 That label describes what changes you have made.   
 
-asdf
 
-Last step. Now, type **"git push origin 'yourname'"**. 'yourname' should match the branch name you setup. This pushes your code to the git world. Great job! Now I can see the changes you made! 
+Last step. Now, type **"git push"**. 'yourname' should match the branch name you setup. This pushes your code to the git world. Great job! Now I can see the changes you made! 
 Then, type **git push --set-upstream origin 'youname'** to finalize set up.  asdf
 Just like this, you will be submitting your codes to the repository.  
 
