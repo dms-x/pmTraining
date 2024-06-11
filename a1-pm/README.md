@@ -28,7 +28,7 @@ Then, type: **git commit -m "name change(or anything to describe the change you 
 That label describes what changes you have made.   
 
 Last step. Now, type **"git push origin 'yourname'"**. 'yourname' should match the branch name you setup. This pushes your code to the git world. Great job! Now I can see the changes you made! 
-Then, type **git push --set-upstream origin 'youname'** to finalize set up.  
+Then, type **git push --set-upstream origin 'youname'** to finalize set up.  asdf
 Just like this, you will be submitting your codes to the repository.  
 
 One of the most important thing is, when there's a change in the repository before you make any changes, do **"git pull"** to pull the updated code base from the github. Great Job! 
