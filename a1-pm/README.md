@@ -27,6 +27,8 @@ In the terminal, type **"git add a1-pm/"** -> this adds only the a1pm folder to 
 Then, type: **git commit -m "name change(or anything to describe the change you made to the code)"**  
 That label describes what changes you have made.   
 
+asdf
+
 Last step. Now, type **"git push origin 'yourname'"**. 'yourname' should match the branch name you setup. This pushes your code to the git world. Great job! Now I can see the changes you made! 
 Then, type **git push --set-upstream origin 'youname'** to finalize set up.  asdf
 Just like this, you will be submitting your codes to the repository.  
